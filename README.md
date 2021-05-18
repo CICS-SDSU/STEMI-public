@@ -9,7 +9,7 @@ Ross Garberich,
 Sanjeev P. Bhavnani,
 and Timothy Henry.
 
-This paper has been submitted for review in *Journal of the American Medical Informatics Association*.
+This paper has been submitted for review in *Journal of Biomedical Informatics*.
 
 > Combining cartographic mapping techniques and artificial neural networks permitted the transformation of the STEMI database into novel, two-dimensional visualizations of patient characteristics and outcomes.
 
