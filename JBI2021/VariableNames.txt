@@ -1,6 +1,6 @@
 VarId	VarName
 1	Age
-2	Male
+2	Gender
 3	African-American
 4	Asian
 5	Caucasian
